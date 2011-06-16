@@ -1,6 +1,7 @@
 source 'http://rubygems.org'
 
 gem 'rails', '3.0.8'
+gem 'spork', '0.9.0.rc5'
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
